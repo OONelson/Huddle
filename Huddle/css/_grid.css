@@ -1,0 +1,1 @@
+.row{max-width:114rem;margin:0 4rem}.row:not(:last-child){margin-bottom:6rem}.row .col-1-of-2{width:calc((100% - 6rem)/2);background-color:red;float:left}.row .col-1-of-2:not(:last-child){margin-right:6rem}
